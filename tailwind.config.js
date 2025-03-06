@@ -18,6 +18,9 @@ module.exports = {
         },
       },
     },
+    safelist: [
+      'ml-auto', // Força a inclusão do ml-auto
+    ],
     plugins: [],
   }
   
